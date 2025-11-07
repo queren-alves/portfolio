@@ -20,8 +20,10 @@ async function getApiGithub(){
             <article class="about_content">
  
                 <h2>Sobre mim</h2>
-                <p>Mussum Ipsum, cacilds vidis litro abertis.  Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Per aumento de cachacis, eu reclamis. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis. Nulla id gravida magna, ut semper sapien.</p>
-                <p>Mussum Ipsum, cacilds vidis litro abertis.  Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Per aumento de cachacis, eu reclamis. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis. Nulla id gravida magna, ut semper sapien.</p>
+                <p>Sou estudante de Sistemas de Informação, com grande interesse na área de desenvolvimento de sistemas e na lógica da programação. 
+                Gosto de transformar ideias em soluções funcionais e bem estruturadas, buscando sempre aprender novas tecnologias e aprimorar minhas habilidades técnicas.
+                Tenho curiosidade por entender como as coisas funcionam por trás do código e me motiva ver projetos ganhando forma e impacto real.</p>
+                <p>Atualmente, sigo me desenvolvendo para construir uma carreira sólida na área de tecnologia, contribuindo com soluções criativas e eficientes que façam a diferença.</p>
  
             <div class="about_stats">
                     <a href="${perfilJson.html_url}" target="_blank" class="botao git">Ver GitHub</a>
