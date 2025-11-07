@@ -395,16 +395,6 @@ form span {
     fill: var(--purple-500);
 }
 
-.sucess_icon {
-    filter: saturate(100%) 
-            invert(9%) 
-            sepia(57%) 
-            saturate(3044%) 
-            hue-rotate(255deg) 
-            brightness(89%) 
-            contrast(105%);
-}
-
 .sucess_content h1 {
     font-size: 2.5rem;
     font-weight: 700;
