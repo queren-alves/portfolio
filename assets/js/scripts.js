@@ -24,7 +24,7 @@ async function getApiGithub(){
                 <p>Mussum Ipsum, cacilds vidis litro abertis.  Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Per aumento de cachacis, eu reclamis. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis. Nulla id gravida magna, ut semper sapien.</p>
  
             <div class="about_stats">
-                    <a href="${perfilJson.html_url}" target="_blank" class="botao">Ver GitHub</a>
+                    <a href="${perfilJson.html_url}" target="_blank" class="botao git">Ver GitHub</a>
                    
                     <div class="stats-wrapper">
                         <div class="stat-item">
